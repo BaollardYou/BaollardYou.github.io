@@ -1,0 +1,35 @@
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.post-card {
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 16px;
+  transition: 0.2s;
+  background: white;
+}
+
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+}
+
+.post-card h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.post-card p {
+  color: #666;
+  font-size: 14px;
+}
+
+.tags span {
+  font-size: 12px;
+  margin-right: 6px;
+  color: #888;
+}
