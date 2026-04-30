@@ -1,5 +1,4 @@
 ---
----
 title: Kubernetes 深入理解
 date: 2026-04-30
 categories: [kubernetes]
