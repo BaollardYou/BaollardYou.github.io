@@ -2,7 +2,7 @@ title: 尤点儿东西
 description: 总会用到的吧~~~.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minima
 
 # Markdown配置
 markdown: kramdown
