@@ -1,14 +1,12 @@
 ---
-title: 我的第一篇博客
+---
+title: Kubernetes 深入理解
 date: 2026-04-30
-categories: blog
-tags: [start, github-pages]
+categories: [kubernetes]
+tags: [k8s, devops, backend]
+excerpt: Kubernetes 架构深入解析
 ---
 
-🎉 欢迎来到我的博客！
+# Kubernetes 深入理解
 
-这是第一篇文章。
-
-## 为什么写博客？
-
-记录 + 分享 + 成长 🚀
+正文内容...
